@@ -1,0 +1,25 @@
+INFO:root:this is my very first code for logging
+INFO:root:this is my very first code for logging
+INFO:root:2
+INFO:root:this is my very first code for logging
+INFO:root:2
+INFO:root:this is my very first code for logging
+WARNING:root:this will try to load a warning
+INFO:root:2
+INFO:root:this is my very first code for logging
+WARNING:root:this will try to load a warning message
+INFO:root:2
+INFO:root:this is my very first code for logging
+WARNING:root:this will try to load a warning message
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in list
+INFO:root:this is my very first code for logging
+WARNING:root:this will try to load a warning message
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in list
+ERROR:root:This is a error message from system
+INFO:root:this is my very first code for logging
+WARNING:root:this will try to load a warning message
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in list
+ERROR:root:This is a error message from system

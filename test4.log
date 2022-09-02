@@ -1,0 +1,5 @@
+2022-08-28 11:42:01,889 root ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\Hi\PycharmProjects\pythonProject123\test3.py", line 7, in divide
+    div = a/b
+ZeroDivisionError: division by zero
