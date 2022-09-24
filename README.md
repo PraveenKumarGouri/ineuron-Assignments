@@ -1,2 +1,2 @@
-# Day1
-Ineuron 
+# ASSIGNMENTS
+~INeuron~ 
