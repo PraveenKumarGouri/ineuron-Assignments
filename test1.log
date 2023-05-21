@@ -1,0 +1,5 @@
+
+WARNING:root:this will try to load a warning message
+INFO:root:2
+WARNING:root:this is warning for a user that they have found out 2 in list
+ERROR:root:This is a error message from system
